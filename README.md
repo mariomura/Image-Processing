@@ -1,10 +1,12 @@
-|# Image Processing
+# Image Processing
 
 Framework: Django
 
 Languages: Python, HTML, CSS.
 
 Libraries: OpenCV, Pillow, Numpy.
+
+The first project is a Django web app that uses the OpenCV python library; it allows the user to upload any image and select through a list of filters that can be applied to the chosen image to perform different techniques of image processing such as sharpening, noise reduction, blurring, etc.
 
 # Original Image
 ![proc](https://user-images.githubusercontent.com/51179471/176018050-861ae1e1-6fb6-4dcd-8e6b-5be1570d00e2.jpg)
