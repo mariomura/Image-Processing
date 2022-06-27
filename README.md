@@ -7,9 +7,10 @@ Languages: Python, HTML, CSS.
 Libraries: OpenCV, Pillow, Numpy.
 
 # Original Image
-<img width="258"alt="proc" src="https://user-images.githubusercontent.com/51179471/176016975-38ce602b-3481-4546-9818-74d0bff29d77.jpg">
+![proc](https://user-images.githubusercontent.com/51179471/176018050-861ae1e1-6fb6-4dcd-8e6b-5be1570d00e2.jpg)
+
 # Threshold Filter
-<img width="258" alt="proc2" src="https://user-images.githubusercontent.com/51179471/176017775-220f0245-029e-4de4-9c65-8017be3b78cf.png">
+<img width="auto" alt="proc2" src="https://user-images.githubusercontent.com/51179471/176017775-220f0245-029e-4de4-9c65-8017be3b78cf.png">
 
 # Gaussian Blur Filter
 ![proc3](https://user-images.githubusercontent.com/51179471/176017472-0e1df7cd-889b-4b96-87df-ae630eaae10d.png)
